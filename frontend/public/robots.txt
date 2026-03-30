@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://centsify.netlify.app/sitemap.xml
