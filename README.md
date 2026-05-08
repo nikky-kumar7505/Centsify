@@ -11,7 +11,7 @@ Centsify is a **full-stack personal finance management app** built with **React 
 * **Full-Stack Deployment Ready** – Configured for deployment on various hosting platforms
 * **Account Settings** – View your profile and delete your account permanently from the app.
 
-## Tech Stack
+## Tech Stack:-
 
 **Frontend:**
 
